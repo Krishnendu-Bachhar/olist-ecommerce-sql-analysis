@@ -30,19 +30,6 @@ It demonstrates how raw transactional data can be transformed into **actionable 
 - Data cleaning & validation
 - Creation of reusable **SQL Views (KPI Layer)**
 
----
-
-## 📂 Project Structure
-📁 sql/
-├── 01_schema_constraints.sql
-├── 02_data_quality_checks.sql
-├── 03_metric_definitions.sql
-├── 04_core_analysis.sql
-└── 05_advanced_analysis.sql
-
-📁 assets/
-📁 reports/
-README.md
 
 
 ---
