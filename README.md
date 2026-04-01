@@ -105,32 +105,33 @@ README.md
 ## 📸 Dashboard Preview
 
 ### 🔹 1. Overview and Revenue Trend
-![Overview](assets/overview_revenue.png)
+![Overview](assets/Overview%20and%20Revenue%20Trend.png)
 
 ---
 
 ### 🔹 2. Customer Behaviour Analysis
-![Customer Behaviour](assets/customer_behavior.png)
+![Customer Behaviour](assets/Customer%20Behaviour%20Analysis.png)
 
 ---
 
 ### 🔹 3. Rating Analysis
-![Rating Analysis](assets/rating_analysis.png)
+![Rating Analysis](assets/Rating%20Analysis.png)
 
 ---
 
 ### 🔹 4. Logistics Analysis
-![Logistics](assets/logistics_analysis.png)
+![Logistics](assets/Logistics%20Analysis.png)
 
 ---
 
 ### 🔹 5. Retention and Demography Analysis
-![Retention](assets/retention_demography.png)
+![Retention](assets/Retention%20and%20Demography%20Analysis.png)
 
 ---
 
 ### 🔹 6. Business Analysis Report
-![Business Report](assets/business_report.png)
+![Business Report](assets/Business%20Analysis%20Report.png)
+
 
 ## 📈 SQL Highlights
 
