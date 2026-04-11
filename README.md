@@ -45,8 +45,9 @@ It demonstrates how raw transactional data can be transformed into **actionable 
 
 ### 🔹 2. Customer Behaviour Analysis
 - Customer segmentation (Low, Mid, Premium)  
-- Spending distribution and value clusters  
-- Identification of high-value customers  
+- Transaction method  
+- Identification of high-value customers
+- Monthly new customer aqcuisition vs Revenue trend
 
 ---
 
@@ -57,18 +58,19 @@ It demonstrates how raw transactional data can be transformed into **actionable 
 
 ---
 
-### 🔹 4. Logistics Analysis
+### 🔹 4. Logistics and Demography Analysis
 - Delivery delay percentage  
 - Impact of delays on customer ratings  
-- Operational performance insights  
+- Customer distribution across states  
 
 ---
 
-### 🔹 5. Retention and Demography Analysis
-- Customer distribution across states  
-- Monthly new customer acquisition trends  
-- Analysis of repeat vs one-time customers  
-
+### 🔹 5. Retention and Cohort Analysis
+- Customer retention tracked over time using cohort grouping  
+- Analysis of repeat purchase behavior across months  
+- Identified extremely low retention rates across all cohorts  
+- Validates that revenue growth is primarily driven by new customer acquisition  
+  
 ---
 
 ### 🔹 6. Business Analysis Report (Executive Summary)
@@ -78,6 +80,14 @@ It demonstrates how raw transactional data can be transformed into **actionable 
 - Key business insights and risks  
 
 ---
+### 🔹 7. Key Recommendations
+ - Incentivisation programms for improving customer retention
+ - Reform measures for on time delivery SLAs
+ - Region specific marketing strategies for market penetration beyond few states
+ - Quality control program
+ - Targeted campaigns for high-value customers
+
+
 
 ## 📊 Key Business Insights
 
@@ -106,12 +116,12 @@ It demonstrates how raw transactional data can be transformed into **actionable 
 
 ---
 
-### 🔹 4. Logistics Analysis
+### 🔹 4. Logistics and Gdemography Analysis
 ![Logistics](assets/Logistics%20Analysis.png)
 
 ---
 
-### 🔹 5. Retention and Demography Analysis
+### 🔹 5. Retention and Cohort Analysis
 ![Retention](assets/Retention%20and%20Demography%20Analysis.png)
 
 ---
@@ -119,6 +129,10 @@ It demonstrates how raw transactional data can be transformed into **actionable 
 ### 🔹 6. Business Analysis Report
 ![Business Report](assets/Business%20Analysis%20Report.png)
 
+---
+
+### 🔹 7. Key Recommendations
+![Key Recommendations](assets/Key%20Recommendations.png)
 
 ## 📈 SQL Highlights
 
