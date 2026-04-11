@@ -122,7 +122,7 @@ It demonstrates how raw transactional data can be transformed into **actionable 
 ---
 
 ### 🔹 5. Retention and Cohort Analysis
-![Retention](assets/Retention%20and%20Demography%20Analysis.png)
+![Retention](assets/Retention%20and%20Cohort%20Analysis.png)
 
 ---
 
@@ -132,7 +132,7 @@ It demonstrates how raw transactional data can be transformed into **actionable 
 ---
 
 ### 🔹 7. Key Recommendations
-![Key Recommendations](assets/Key%20Recommendations.png)
+![Key Recommendations](assets/Key%20Recommendations .png)
 
 ## 📈 SQL Highlights
 
