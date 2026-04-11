@@ -105,6 +105,7 @@ It demonstrates how raw transactional data can be transformed into **actionable 
 ### 🔹 1. Overview and Revenue Trend
 ![Overview](assets/Overview%20and%20Revenue%20Trend.png)
 
+
 ---
 
 ### 🔹 2. Customer Behaviour Analysis
@@ -134,6 +135,7 @@ It demonstrates how raw transactional data can be transformed into **actionable 
 
 ### 🔹 7. Key Recommendations
 ![Key Recommendations](assets/Key%20Recommendations.png)
+
 
 ## 📈 SQL Highlights
 
