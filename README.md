@@ -102,7 +102,7 @@ It demonstrates how raw transactional data can be transformed into **actionable 
 ## 📸 Dashboard Preview
 
 ### 🔹 1. Overview and Revenue Trend
-![Overview](assets/Overview%20and%20Revenue%20Trend.png)
+![Overview](assets/Overview%20and%20Revenue%20Trend .png)
 
 ---
 
