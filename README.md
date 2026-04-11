@@ -101,8 +101,9 @@ It demonstrates how raw transactional data can be transformed into **actionable 
 
 ## 📸 Dashboard Preview
 
+
 ### 🔹 1. Overview and Revenue Trend
-![Overview](assets/Overview%20and%20Revenue%20Trend .png)
+![Overview](assets/Overview%20and%20Revenue%20Trend.png)
 
 ---
 
@@ -117,7 +118,7 @@ It demonstrates how raw transactional data can be transformed into **actionable 
 ---
 
 ### 🔹 4. Logistics and Demography Analysis
-![Logistics](assets/Logistics%20Analysis.png)
+![Logistics](assets/Logistics%20and%20Demography%20Analysis.png)
 
 ---
 
@@ -132,7 +133,7 @@ It demonstrates how raw transactional data can be transformed into **actionable 
 ---
 
 ### 🔹 7. Key Recommendations
-![Key Recommendations](assets/Key%20Recommendations .png)
+![Key Recommendations](assets/Key%20Recommendations.png)
 
 ## 📈 SQL Highlights
 
