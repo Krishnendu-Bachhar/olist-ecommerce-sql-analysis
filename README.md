@@ -116,7 +116,7 @@ It demonstrates how raw transactional data can be transformed into **actionable 
 
 ---
 
-### 🔹 4. Logistics and Gdemography Analysis
+### 🔹 4. Logistics and Demography Analysis
 ![Logistics](assets/Logistics%20Analysis.png)
 
 ---
