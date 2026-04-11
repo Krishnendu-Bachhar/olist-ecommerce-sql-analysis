@@ -141,22 +141,13 @@ It demonstrates how raw transactional data can be transformed into **actionable 
 
 - Designed a **relational schema with primary & foreign keys**
 - Created reusable **SQL views for business metrics (KPI layer)**
-- Applied **window functions** for ranking and time-series analysis
+- Applied **window functions** for ranking,time-series analysis and **cohort analysis** 
 - Built **customer segmentation logic using CASE statements**
 - Used **CTEs for modular and readable queries**
 - Ensured **data integrity and consistency across datasets**
 
 ---
 
-## ⚙️ How to Run the Project
-
-1. Import dataset into MySQL  
-2. Execute SQL scripts in sequence:
-   - Schema → Data Cleaning → Metrics → Analysis → Advanced  
-3. Connect Power BI to MySQL  
-4. Load SQL views and build dashboard  
-
----
 
 ## 🧠 Key Takeaway
 
